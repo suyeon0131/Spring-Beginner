@@ -1,4 +1,4 @@
-package hello.hello_spring.domain;
+package hello.hellospring.domain;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
